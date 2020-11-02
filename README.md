@@ -1,1 +1,1 @@
-# python_practital_works
+# python_practical_works
